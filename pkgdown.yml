@@ -3,7 +3,7 @@ pkgdown: 1.6.1
 pkgdown_sha: ~
 articles:
   CarpentriesWorkshopSyllabus: CarpentriesWorkshopSyllabus.html
-last_built: 2021-05-20T19:33Z
+last_built: 2021-05-20T19:38Z
 urls:
   reference: https://jdrnevich.github.io/testWorkshop//reference
   article: https://jdrnevich.github.io/testWorkshop//articles
